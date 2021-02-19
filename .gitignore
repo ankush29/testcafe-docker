@@ -1,0 +1,4 @@
+reports/
+screenshots/
+node_modules/
+testcafe-reporter-cucumber-json.json
